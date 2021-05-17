@@ -1,4 +1,4 @@
-package strategy.pattern;
+package com.example.paterns.strategy.pattern;
 
 
 public interface Strategy {
